@@ -7,6 +7,7 @@ Some features of this are:
 * Pricing is done using cards.
 * App download page.
 * Contact me footer.
+* Responsive to look good on any device.
 
 The basic theme used here is tindog for dogs, similar to tinder for humans. But, it is incorporated keeping in view adaptability towards any startup idea.
 
